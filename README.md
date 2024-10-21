@@ -51,9 +51,11 @@
 ### CryptoCurrency section responsive
 ![image](https://github.com/user-attachments/assets/948113b8-71d7-4535-a3da-4d848c813cb9)
 ![image](https://github.com/user-attachments/assets/b96ff249-8138-4bd5-9ecb-d41e9da59f60)
-![image](https://github.com/user-attachments/assets/c5dee06a-597b-4502-9242-a072773711e7)
-
 ### Applying search and change the currency type
 ![image](https://github.com/user-attachments/assets/4f2ff2d2-bfe1-4ca9-ac2f-3023e99862b1)
+### for small screen size
+![image](https://github.com/user-attachments/assets/c5dee06a-597b-4502-9242-a072773711e7)
+
+
 
 
